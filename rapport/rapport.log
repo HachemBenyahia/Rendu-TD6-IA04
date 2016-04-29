@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.12)  29 APR 2016 19:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.12)  29 APR 2016 19:43
 entering extended mode
 **./rapport.tex
 (rapport.tex
@@ -618,24 +618,24 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ) [1
 
 {C:/Users/Hachem/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
 
  []
 
 [2] (rapport.aux) ) 
 Here is how much of TeX's memory you used:
- 6690 strings out of 493634
- 88089 string characters out of 3141311
- 293124 words of memory out of 3000000
- 9989 multiletter control sequences out of 15000+200000
+ 6697 strings out of 493634
+ 88176 string characters out of 3141311
+ 287141 words of memory out of 3000000
+ 9996 multiletter control sequences out of 15000+200000
  19668 words of font info for 28 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,6n,47p,301b,1643s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,47p,301b,1644s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/
 8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on rapport.pdf (2 pages, 40579 bytes).
+Output written on rapport.pdf (2 pages, 42564 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

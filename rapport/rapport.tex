@@ -24,7 +24,7 @@
 	breakatwhitespace=false,
 	breaklines=true,      
 	keepspaces=true,  
-	keywords = [1]{foaf, rdf},
+	keywords = [1]{foaf, rdf, @prefix},
 	keywordstyle = [1]\color{blue},  
 	keywords = [2]{type, knows},
 	keywordstyle = [2]\color{brown2},
@@ -61,6 +61,8 @@
 
 ~\\
 \begin{lstlisting}
+@prefix				geo						<http://linkedgeodata.org/triplify/>.
+
 td5:randomTopic1 	rdf:type 				foaf:topic.	
 td5:randomTopic2	rdf:type 				foaf:topic.	
 td5:randomTopic3	rdf:type 				foaf:topic.	
@@ -75,7 +77,9 @@ td5:a				rdf:type				foaf:Person;
 
 					foaf:topic_interest		td5:randomTopic1;
 					foaf:topic_interest		td5:randomTopic2;
-					foaf:topic_interest		td5:randomTopic3.
+					foaf:topic_interest		td5:randomTopic3;
+					
+					foaf:topic_interest		geo:node1363947712.
 
 td5:b				rdf:type				foaf:Person;
 					foaf:firstName			"B";
@@ -87,7 +91,9 @@ td5:b				rdf:type				foaf:Person;
 
 					foaf:topic_interest		td5:randomTopic1;
 					foaf:topic_interest		td5:randomTopic2;
-					foaf:topic_interest		td5:randomTopic3.
+					foaf:topic_interest		td5:randomTopic3;
+					
+					foaf:topic_interest		geo:node1363947712.
 				
 td5:c				rdf:type				foaf:Person;
 					foaf:firstName			"C";
@@ -99,7 +105,9 @@ td5:c				rdf:type				foaf:Person;
 
 					foaf:topic_interest		td5:randomTopic1;
 					foaf:topic_interest		td5:randomTopic2;
-					foaf:topic_interest		td5:randomTopic3.
+					foaf:topic_interest		td5:randomTopic3;
+					
+					foaf:topic_interest		geo:node1363947712.
 					
 td5:d				rdf:type				foaf:Person;
 					foaf:firstName			"D";
@@ -111,7 +119,9 @@ td5:d				rdf:type				foaf:Person;
 
 					foaf:topic_interest		td5:randomTopic1;
 					foaf:topic_interest		td5:randomTopic2;
-					foaf:topic_interest		td5:randomTopic3.
+					foaf:topic_interest		td5:randomTopic3;
+					
+					foaf:topic_interest		geo:node1363947712.
 					
 td5:e				rdf:type				foaf:Person;
 					foaf:firstName			"E";
@@ -123,7 +133,9 @@ td5:e				rdf:type				foaf:Person;
 
 					foaf:topic_interest		td5:randomTopic1;
 					foaf:topic_interest		td5:randomTopic2;
-					foaf:topic_interest		td5:randomTopic3.
+					foaf:topic_interest		td5:randomTopic3;
+					
+					foaf:topic_interest		geo:node1363947712.
 \end{lstlisting}
 
 ~\\\\
