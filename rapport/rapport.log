@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.12)  29 APR 2016 18:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.12)  29 APR 2016 19:24
 entering extended mode
 **./rapport.tex
 (rapport.tex
@@ -523,26 +523,26 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 ) (rapport.aux)
 \openout1 = `rapport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 44.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-LaTeX Info: Redefining \degres on input line 17.
-LaTeX Info: Redefining \dots on input line 17.
-LaTeX Info: Redefining \up on input line 17.
+LaTeX Info: Redefining \degres on input line 44.
+LaTeX Info: Redefining \dots on input line 44.
+LaTeX Info: Redefining \up on input line 44.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -594,47 +594,50 @@ LaTeX Info: Redefining \up on input line 17.
 )
 \c@lstlisting=\count128
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 47.
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 26.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 53.
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-[1
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 63.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+) [1
 
 {C:/Users/Hachem/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(rapport.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+[2] (rapport.aux) ) 
 Here is how much of TeX's memory you used:
- 6349 strings out of 493634
- 85020 string characters out of 3141311
- 167758 words of memory out of 3000000
- 9654 multiletter control sequences out of 15000+200000
- 14681 words of font info for 23 fonts, out of 3000000 for 9000
+ 6690 strings out of 493634
+ 88089 string characters out of 3141311
+ 293124 words of memory out of 3000000
+ 9989 multiletter control sequences out of 15000+200000
+ 19668 words of font info for 28 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,5n,35p,301b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.e
-nc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on rapport.pdf (1 page, 19735 bytes).
+ 41i,6n,47p,301b,1643s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/
+8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on rapport.pdf (2 pages, 40579 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
